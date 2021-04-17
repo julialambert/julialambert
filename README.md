@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**julialambert/julialambert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julialmr/)](https://www.linkedin.com/in/julialmr/)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I really like the stock market
+
+## What am I doing recently?
+
+- :computer: Currently I am working mainly with ReactJS, building amazing products!
+- 👩‍🎓 Grad student of UX Design and Agile
+
+## What am I planning to do next?
+
+- :cloud: NodeJS
+- :dizzy: Learn Swift
+
+### GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/julialambert">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julialambert&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julialambert&layout=compact&langs_count=8&theme=graywhite"/>
+</a>
+</p>
