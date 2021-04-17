@@ -18,9 +18,7 @@
 
 ### GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/julialambert">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julialambert&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julialambert&layout=compact&langs_count=8&theme=graywhite"/>
-</a>
-</p>
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=julialambert&count_private=true&show_icons=true&theme=graywhite" alt="julialambert" width="420"/> 
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julialambert&layout=compact&langs_count=8&theme=graywhite"     alt="julialambert" height="165" />
+ </p>
