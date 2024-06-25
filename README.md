@@ -10,7 +10,6 @@
 
 ### GitHub Analytics
 
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=julialambert&count_private=true&show_icons=true&theme=graywhite" alt="julialambert" width="420"/> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julialambert&layout=compact&langs_count=8&theme=graywhite"     alt="julialambert" height="165" />
+<p> 
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julialambert&layout=compact&langs_count=8&theme=graywhite" alt="julialambert" height="165" />
  </p>
