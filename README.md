@@ -1,7 +1,7 @@
 # 👋 Hi
 
 I'm Júlia, a passionate software developer and tech enthusiast.</br>
-With over 7 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+With over 6 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 💻 Tech Stack
 
